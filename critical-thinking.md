@@ -1,6 +1,6 @@
 # Critical Thinking
 
-A short analysis of Linux vs. Windows for DevOps automation.
+# A short analysis of Linux vs. Windows for DevOps automation.
 
 
 Linux: The Open Source Advantage
